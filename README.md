@@ -13,3 +13,10 @@ The easiest way to get this is to use PIP (```pip install NBT```).
 
 Then, put mapstitcher.py and config.py into a folder. Edit the values in config.py to your liking, then
 run ```python mapstitcher.py```. That's it!
+
+Example Result
+--------------
+
+You can see the different levels of detail that come with different maps being zoomed out to different zoom levels.
+
+![Map Image](https://i.imgur.com/sXmCh2X.png)
